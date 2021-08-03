@@ -2,7 +2,7 @@
 
 /*
 	Sintaxe:
-	https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/find
+	https://developer.mozilla.org/pt-BR/docs/Web/Java Script/Reference/Global_Objects/Array/find
 
 
 	arr.find(callback(element[, index[, array]])[, thisArg])][]
